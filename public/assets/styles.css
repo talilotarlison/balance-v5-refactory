@@ -1,0 +1,91 @@
+    body {
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    .btn-large {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      margin: 20px;
+    }
+
+    .brand-logo {
+      margin-left: 25px;
+    }
+
+    .sidenav {
+      background-color: #e8eaf6;
+    }
+
+    .materialize-logo {
+      width: 120px;
+    }
+
+    .btn-modal {
+      padding-right: 20px;
+    }
+
+    .btn-modal:hover {
+      background-color: transparent;
+      transform: scale(1.1, 1.1);
+    }
+
+    .card-stacked {
+      height: 130px !important;
+      padding: 20px;
+      border-radius: 3px !important;
+      box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    }
+
+    .container div {
+      border-radius: 3px !important;
+    }
+
+    .card-metric-title span {
+      font-size: 28px !important;
+    }
+
+    .itens {
+      margin: 0 auto;
+      width: 90%;
+    }
+
+    footer {
+      border-top: solid 1px rgba(128, 128, 128, 0.511);
+      margin-top: 20px;
+      padding-top: 20px;
+      background-color: rgba(128, 128, 128, 0.096);
+    }
+
+
+    /*status dos itens*/
+    .code-tipe {
+      display: inline-block !important;
+      width: 15px !important;
+      height: 15px !important;
+      padding: 5px;
+      border-radius: 50%;
+      border: 1px solid black;
+      margin: 3px;
+    }
+
+    .saida {
+      background-color: #ef9a9a !important;
+    }
+
+    .entrada {
+      background-color: #c8e6c9 !important;
+    }
+
+    .agendado {
+      background-color: #fff9c4 !important;
+    }
+
+    .code-status {
+      display: flex;
+    }
+
+    /*modal de view dos itens*/
+
+  
